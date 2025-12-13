@@ -1,0 +1,6 @@
+name: memRAG
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - httpx==0.27.0
